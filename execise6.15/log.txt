@@ -1,0 +1,2 @@
+C:\Users\john\Desktop\wang's_files\execise6.15\execise6.15.c: In function 'main':
+C:\Users\john\Desktop\wang's_files\execise6.15\execise6.15.c:15:2: warning: incompatible implicit declaration of built-in function 'printf' [enabled by default]

@@ -1,0 +1,30 @@
+name : Jerry
+schoolNUM : PB15111223
+scores :   90.0  95.0  88.0
+average_score : 91.0
+
+
+name : Mary
+schoolNUM : PB15111345
+scores :   98.0  78.0  88.0
+average_score : 88.0
+
+
+name : Jack
+schoolNUM : PB15111098
+scores :   90.0  78.0  89.0
+average_score : 85.7
+
+
+name : John
+schoolNUM : PB15111987
+scores :   86.0  97.0  55.0
+average_score : 79.3
+
+
+name : Maja
+schoolNUM : PB15111666
+scores :   87.0  67.0  56.0
+average_score : 70.0
+
+
